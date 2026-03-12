@@ -1,0 +1,7 @@
+Role: [Backend Developer]
+
+Strengths: [Python logic, SQL]
+
+Want to learn: [e.g., Advanced CSS animations]
+
+Favorite Language: [e.g., Python]
