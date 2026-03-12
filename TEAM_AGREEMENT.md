@@ -2,7 +2,10 @@
 
 ### 1. Team Members & Roles
 * **Vadim & Mekan :** Database & Backend Lead
-* **Leyla :** Frontend & UI/UX Lead
+* **Leyla :** Frontend Styling
+* **Akgozel :** Display Logic and Styles
+* **Kerem :** ---
+* **Gulsum :** ---
 
 
 ### 2. Communication Plan
